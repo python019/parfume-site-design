@@ -1,0 +1,5 @@
+* text=auto
+*.js linguist-language=JavaScript
+*.img linguist-language=JavaScript
+*.css linguist-language=JavaScript
+*.html linguist-language=JavaScript
